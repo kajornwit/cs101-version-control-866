@@ -14,3 +14,8 @@
 ## Technology Interests
 - Website Development
 - Program Development
+
+## Skills
+- Punyaorn
+- English
+- Leadership

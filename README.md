@@ -10,3 +10,7 @@
 - Resign From Silpakorn University
 - Work in Student Organism
 - Got A Every Subjects
+
+## Technology Interests
+- Website Development
+- Program Development

@@ -15,3 +15,8 @@
 - Punyaorn
 - English
 - Leadership
+
+## Skills
+- Punyaorn
+- English
+- Leadership

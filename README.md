@@ -11,10 +11,6 @@
 - Work in Student Organism
 - Got A Every Subjects
 
-## Technology Interests
-- Website Development
-- Program Development
-
 ## Skills
 - Punyaorn
 - English
